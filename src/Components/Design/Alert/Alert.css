@@ -1,0 +1,23 @@
+
+.warning-container,.error-container{
+    width: 42.5vw;
+    height: 6vh;
+    border-radius: 5px;
+    border: 1px solid rgb(184, 184, 184);
+    background-color: rgb(221, 221, 221);
+    
+}
+
+.error-container{
+    background-color:rgb(221, 151, 151);
+    border: 1px solid rgb(189, 63, 63);
+}
+
+.warning-container p,.error-container p{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.error-container p{
+    color: darkred;
+}

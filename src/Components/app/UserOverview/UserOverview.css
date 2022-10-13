@@ -1,0 +1,10 @@
+.inputContainer{
+    display: flex;
+    margin: 2.5vh 0;
+    width: 50vw;
+}
+
+.content-flex{
+    display: flex;
+    gap: 5vw;
+}

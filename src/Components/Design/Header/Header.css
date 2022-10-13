@@ -1,0 +1,11 @@
+.github-nav{
+        background-color: #151515;
+        height: 7vh;
+        display: flex;
+        align-items: center;
+}
+
+.logo{
+    color:white;
+    padding: 0 5vw;
+}

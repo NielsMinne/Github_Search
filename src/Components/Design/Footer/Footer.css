@@ -1,0 +1,8 @@
+footer{
+    height: 5vh;
+    background-color: #151515;
+    color: white;
+    display:flex;
+    align-items: center;
+    padding-left: 5vh;
+}
